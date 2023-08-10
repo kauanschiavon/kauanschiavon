@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**kauanschiavon/kauanschiavon** _is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile._
+_**kauanschiavon/kauanschiavon** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile._
 
 Here are some ideas to get you started:
 
