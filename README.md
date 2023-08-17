@@ -5,9 +5,14 @@ _**kauanschiavon/kauanschiavon** is a ✨ special ✨ repository because its `RE
 
 
 -🔭 Atualmente estou trabalhando em...
+
 -🌱 Atualmente estou aprendendo: Python
+
 -👯 Estou procurando colaborar em: nada
+
 -🤔 Estou procurando ajuda com: python
+
 -😄 Pronomes:ele/dele
+
 -⚡ Curiosidade:
 
