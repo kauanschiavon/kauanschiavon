@@ -1,20 +1,81 @@
-# 👋 Hey there, I'm Ashton!
-Architect of the digital unknown. Building high-impact websites, apps, and SaaS products from Christchurch, New Zealand.
+👋 Olá, eu sou Kauan Schiavon
 
-![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![React.js](https://img.shields.io/badge/Library-ReactJs-61DAFB?logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Library-Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+🎓 Estudante de Ciência da Computação
+💻 Desenvolvedor Backend
+🎵 Criador do Harmonic, uma plataforma social de reviews musicais
 
-I specialize in crafting scalable, impactful solutions—from quirky side projects to industry-changing platforms. My work blends engineering leadership with a passion for web architecture and developer experience, turning complex challenges into opportunities.
+🚀 Sobre mim
 
-🔭 Leading teams on transformative projects to reshape industries.
+Atualmente estudo e desenvolvo projetos focados em:
 
-🌱 Continuously learning and empowering others through mentorship and collaboration.
+Backend Development
+APIs REST
+Modelagem de Banco de Dados
+PostgreSQL
+TypeScript
+Node.js
 
-🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
+Tenho interesse especial em:
+
+Sistemas escaláveis
+Arquitetura de software
+Inteligência Artificial
+Desenvolvimento Fullstack
+🛠️ Tecnologias
+Linguagens
+TypeScript
+JavaScript
+C
+C++
+SQL
+Backend
+Node.js
+Express
+REST APIs
+JWT Authentication
+Banco de Dados
+PostgreSQL
+MySQL
+Neon
+SQLModel
+Ferramentas
+Git
+GitHub
+Docker
+VS Code
+Postman
+🎵 Projeto em destaque — Harmonic
+
+Plataforma social de reviews musicais inspirada em IMDb, Letterboxd e Spotify.
+
+Funcionalidades
+Avaliações e reviews de músicas
+Sistema de seguidores
+Curtidas e comentários
+Playlists públicas e privadas
+Feed social
+Integração com Spotify API
+Stack
+Node.js
+TypeScript
+PostgreSQL
+Neon
+JWT
+Destaques técnicos
+Modelagem relacional avançada
+Relacionamentos many-to-many
+Chaves compostas
+APIs REST
+Banco de dados em nuvem
+📚 Atualmente estudando
+Engenharia de Software
+Estruturas de Dados
+Redes de Computadores
+Banco de Dados
+Inteligência Artificial
+📫 Contato
+Email: ksilvaschiavon@gmail.com
+GitHub: github.com/ksilvaschiavon
+⚡ Objetivo
+
+Construir projetos cada vez mais próximos de aplicações reais de mercado, evoluindo constantemente em backend, arquitetura de software e sistemas escaláveis.
