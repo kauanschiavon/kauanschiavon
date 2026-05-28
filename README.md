@@ -33,8 +33,6 @@ Desenvolvimento de um sistema backend para gerenciamento de pedidos em restauran
 - Modelagem e integração com banco de dados
 - Implementação de regras de negócio do sistema
 - Organização de rotas, controllers e estrutura backend
-- Trabalho colaborativo com GitHub e Pull Requests
-- Utilização de Docker para padronização do ambiente
 
 ## Tecnologias utilizadas
 - JavaScript
