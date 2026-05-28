@@ -37,9 +37,7 @@ Desenvolvimento de um sistema backend para gerenciamento de pedidos em restauran
 - Utilização de Docker para padronização do ambiente
 
 ## Tecnologias utilizadas
-- Node.js
 - JavaScript
 - Express.js
-- SQL
-- Docker
-- Git/GitHub
+- MySQL
+
