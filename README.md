@@ -26,7 +26,7 @@ Desenvolvimento do Harmonic, uma plataforma web inspirada no IMDb, voltada para 
 
 Backend Developer • Projeto Acadêmico
 
-Desenvolvimento de um sistema backend para gerenciamento de pedidos em restaurantes e lanchonetes, permitindo controle de produtos, pedidos, status de preparo e fluxo operacional.
+Desenvolvimento de um sistema backend para gerenciamento de pedidos em restaurantes e lanchonetes, permitindo controle de produtos, pedidos, status de preparo e fluxo operacional.(após o fim do projeto, foi remodelado e expandido).
 
 ## Principais atividades
 - Criação de APIs REST para pedidos e produtos
