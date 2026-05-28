@@ -1,81 +1,40 @@
-👋 Olá, eu sou Kauan Schiavon
+Harmonic — Plataforma de Avaliação Musical
 
-🎓 Estudante de Ciência da Computação
-💻 Desenvolvedor Backend
-🎵 Criador do Harmonic, uma plataforma social de reviews musicais
+Backend Developer • Projeto Acadêmico
 
-🚀 Sobre mim
+Desenvolvimento do Harmonic, uma plataforma web inspirada no IMDb, voltada para o universo musical, permitindo que usuários descubram, cataloguem e avaliem músicas, artistas e álbuns.
 
-Atualmente estudo e desenvolvo projetos focados em:
-
-Backend Development
-APIs REST
-Modelagem de Banco de Dados
-PostgreSQL
-TypeScript
+Principais atividades
+Desenvolvimento de APIs REST para gerenciamento de usuários e conteúdos musicais
+Estruturação do backend utilizando arquitetura em Node.js
+Integração com banco de dados relacional
+Implementação de operações CRUD
+Versionamento e colaboração em equipe utilizando Git e GitHub
+Containerização da aplicação com Docker
+Tecnologias utilizadas
 Node.js
-
-Tenho interesse especial em:
-
-Sistemas escaláveis
-Arquitetura de software
-Inteligência Artificial
-Desenvolvimento Fullstack
-🛠️ Tecnologias
-Linguagens
 TypeScript
-JavaScript
-C
-C++
+Express.js
 SQL
-Backend
-Node.js
-Express
-REST APIs
-JWT Authentication
-Banco de Dados
-PostgreSQL
-MySQL
-Neon
-SQLModel
-Ferramentas
-Git
-GitHub
 Docker
-VS Code
-Postman
-🎵 Projeto em destaque — Harmonic
+Git/GitHub
+Xaropedidos — Sistema de Gerenciamento de Pedidos
 
-Plataforma social de reviews musicais inspirada em IMDb, Letterboxd e Spotify.
+Backend Developer • Projeto Acadêmico
 
-Funcionalidades
-Avaliações e reviews de músicas
-Sistema de seguidores
-Curtidas e comentários
-Playlists públicas e privadas
-Feed social
-Integração com Spotify API
-Stack
+Desenvolvimento de um sistema backend para gerenciamento de pedidos em restaurantes e lanchonetes, permitindo controle de produtos, pedidos, status de preparo e fluxo operacional.
+
+Principais atividades
+Criação de APIs REST para pedidos e produtos
+Modelagem e integração com banco de dados
+Implementação de regras de negócio do sistema
+Organização de rotas, controllers e estrutura backend
+Trabalho colaborativo com GitHub e Pull Requests
+Utilização de Docker para padronização do ambiente
+Tecnologias utilizadas
 Node.js
-TypeScript
-PostgreSQL
-Neon
-JWT
-Destaques técnicos
-Modelagem relacional avançada
-Relacionamentos many-to-many
-Chaves compostas
-APIs REST
-Banco de dados em nuvem
-📚 Atualmente estudando
-Engenharia de Software
-Estruturas de Dados
-Redes de Computadores
-Banco de Dados
-Inteligência Artificial
-📫 Contato
-Email: ksilvaschiavon@gmail.com
-GitHub: github.com/ksilvaschiavon
-⚡ Objetivo
-
-Construir projetos cada vez mais próximos de aplicações reais de mercado, evoluindo constantemente em backend, arquitetura de software e sistemas escaláveis.
+JavaScript
+Express.js
+SQL
+Docker
+Git/GitHub
